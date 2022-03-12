@@ -1,0 +1,4 @@
+css rule for background
+
+background: linear-gradient(to top right, #9900ff 3%, #660066 100%);
+
